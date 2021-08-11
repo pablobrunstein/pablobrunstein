@@ -20,8 +20,9 @@ Me gusta jugar al voley y al padel y disfrutar del aire libre, sobre todo la pla
 
 ! [Este soy yo] [foto]
 
-![Texto alternativo] (C:\Users\pbrunstein\Downloads\foto.jpg "Título alternativo")
+![Texto alternativo] (https://github.com/pablobrunstein/Images/blob/main/Foto.jpg "Título alternativo")
 
 [Linkedin]: https://www.linkedin.com/in/pablobrunstein/
 
-[foto]: C:/Users/pbrunstein/Downloads/foto.jpg
+[foto]: https://github.com/pablobrunstein/Images/blob/main/Foto.jpg
+
